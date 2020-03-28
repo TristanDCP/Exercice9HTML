@@ -5,3 +5,20 @@
 .peachcomplementary{
     color: #7d8caa;
 }
+
+html{
+    background: #ffe5b4;
+    font: 1.1em sans-serif;
+}
+
+ul{
+    display: table;
+    width:31.75rem;
+    margin: 6.25rem auto;
+    padding: 0;
+
+}
+
+ul li{
+    display: table-cell;
+}
