@@ -27,6 +27,7 @@ ul li{
     text-decoration: none;
     padding: 1rem 2rem;
     text-shadow: 2px 2px black ;
+    transition: ease-in color 100ms
 }
 
 #navbar a:visited{
@@ -35,6 +36,7 @@ ul li{
 
 #navbar a:hover{
     color: blueviolet;
+    transition: ease-in color 100ms;
 }
 
 #pagecontent{
